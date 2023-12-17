@@ -26,22 +26,22 @@ This page can only be accessed when the user searches for a book (by name, autho
 ### Login:
  ![login page](https://github.com/danellejp/library-website/assets/124165006/c09cf771-288c-4097-a351-1eba0abb6141)
 
-## Sign Up/Register:
+### Sign Up/Register:
 ![sign up page](https://github.com/danellejp/library-website/assets/124165006/f89b15e7-44b8-4b0a-b518-4e989536e538)
 
-## Welcome/Index:
+### Welcome/Index:
 ![index page](https://github.com/danellejp/library-website/assets/124165006/798a5e23-b0d6-47f5-b87c-472f41ea206f)
 
-## Search:
+### Search:
 ![search page](https://github.com/danellejp/library-website/assets/124165006/edcbb6ba-a575-4bca-9ce6-1bed6311f566)
 
-## Reserve:
+### Reserve:
 ![reserve page 1](https://github.com/danellejp/library-website/assets/124165006/0b5cd718-b636-41a1-a8e3-423d9d9af849)
 ![reserve page 2](https://github.com/danellejp/library-website/assets/124165006/58fd0267-c93d-43f4-9992-5ea6e317fec4)
 
-## View Reservations:
+### View Reservations:
 ![view reservations page](https://github.com/danellejp/library-website/assets/124165006/90604c6c-37ca-4099-99de-fedb3c646db5)
 
-## Remove Reservation:
+### Remove Reservation:
 ![remove reservations page 1](https://github.com/danellejp/library-website/assets/124165006/bf525565-ea6f-4e38-b77b-4886ac4f409e)
 ![remove reservations page 2](https://github.com/danellejp/library-website/assets/124165006/10ef6012-d9a2-4219-bd97-242bf683928e)
