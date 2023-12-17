@@ -33,7 +33,8 @@ This page can only be accessed when the user searches for a book (by name, autho
 ![index page](https://github.com/danellejp/library-website/assets/124165006/798a5e23-b0d6-47f5-b87c-472f41ea206f)
 
 ### Search:
-![search page](https://github.com/danellejp/library-website/assets/124165006/edcbb6ba-a575-4bca-9ce6-1bed6311f566)
+![search page_1](https://github.com/danellejp/library-website/assets/124165006/edcbb6ba-a575-4bca-9ce6-1bed6311f566)
+![search page_2](https://github.com/danellejp/library-website/assets/124165006/4affc852-6be9-4398-940f-82aa5347c2c9)
 
 ### Reserve:
 ![reserve page 1](https://github.com/danellejp/library-website/assets/124165006/0b5cd718-b636-41a1-a8e3-423d9d9af849)
